@@ -1,0 +1,200 @@
+source,mh_group,mh_subgroup,period,catchment,health_service,pre_admission_contact_by_resp_amhs,x7_day_post_discharge_follow_up_by_resp_amhs,closed_cases_re_referred_within_6_months,average_length_of_case_days,average_treatment_days,ho_nos_compliance,average_ho_nos_at_case_start,cases_with_significant_improvement_at_closure,self_rated_measures_completed,average_change_in_clinically_significant_items,camhs_consumers_aged_under_12,new_case_rate,cases_with_consumers_on_a_cto,average_change_in_clinically_significant_ho_nos_items
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Alfred Health,Inner South East (The Alfred),33,73,10,283.5,5.1,64,17,58,9,1.6,39,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Austin Health,North East (Austin),65,92,35,193.6,5.8,62,15.7,46,39,1.3,17,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Eastern Health,Eastern CYMHS,64,92,16,307.3,7.6,79,19.1,51,54,1,22,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Monash Health,South Eastern (Monash CAMHS),49,95,10,156.2,5.8,92,16.8,37,46,0.7,28,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Royal Children's,North Western (RCH),62,65,18,179.4,3.2,76,17.1,34,71,0.8,31,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,TOTAL METRO,NA,58,86,17,215.9,5.6,78,17.3,43,48,1,27,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Ballarat Health,Grampians,67,82,10,195,6.4,36,15.1,46,44,1.2,27,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Barwon Health*,Barwon,44,71,3,414.6,3,38,18.6,92,14,2.3,26,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Bendigo Health,Loddon/Southern Mallee,64,90,9,143.2,3.5,48,14.6,61,50,2,28,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Goulburn Valley Health,Goulburn & Southern,67,100,7,263.9,4.1,53,15.2,59,24,1.9,38,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Latrobe Regional*,Gippsland,75,95,11,424.1,4.7,87,15.7,46,25,1.5,34,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Mildura Base Hospital,Northern Mallee,NA,100,5,219.9,7.7,71,16,33,8,NA,27,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,Albury Wodonga Health,North East & Border,65,69,18,91,2.3,45,16.5,63,77,1.8,33,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,South West Health*,South West Health Care,100,100,7,345.4,4.6,50,16.9,100,38,NA,29,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,TOTAL RURAL*,NA,68,87,9,212.6,4.4,52,15.8,59,40,1.8,31,NA,NA,NA
+mh_kpi_2019_20_q1_camhs_docx,CAMHS,NA,2019 20 Q1,TOTAL STATEWIDE*,NA,59,86,15,215,5.2,71,16.9,45,46,1.1,28,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Alfred Health,Inner South East (The Alfred),50,90,4,213.4,4.7,60,18.1,50,8,1.2,38,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Austin Health,North East (Austin),67,87,25,186.5,5.3,61,17.3,51,30,1.7,17,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Eastern Health,Eastern CYMHS,66,92,11,270.5,7.2,84,19.1,47,51,1.1,22,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Monash Health,South Eastern (Monash CAMHS),47,96,7,178.2,5.8,90,16.2,43,41,1,27,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Royal Children's,North Western (RCH),69,72,20,154.4,2.9,78,16.8,40,80,1,30,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,TOTAL METRO,NA,63,86,14,197.2,5.3,79,17.3,45,46,1.1,27,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Ballarat Health,Grampians,94,100,21,167.1,5.4,52,16.8,65,42,1.9,28,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Barwon Health,Barwon,69,69,4,226.6,4.4,39,18.5,80,5,NA,23,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Bendigo Health,Loddon/Southern Mallee,57,85,9,175.2,3.9,59,18.3,51,63,1.7,26,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Goulburn Valley Health,Goulburn & Southern,75,80,10,175.7,4.3,67,16.1,47,35,1.8,39,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Latrobe Regional,Gippsland,38,71,8,314.7,5,81,17.6,45,15,1.1,32,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Mildura Base Hospital,Northern Mallee,NA,100,6,312.4,5.8,64,17,44,1,1.1,26,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Albury Wodonga Health,Albury - NSW,NA,NA,16,169.2,1,10,10.5,67,2,NA,14,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,Albury Wodonga Health,North East & Border,55,86,12,86,2.8,45,15.3,67,74,2.6,34,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,South West Health,South West Health Care,86,88,18,312,2.8,44,17.2,57,25,2.3,27,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,TOTAL RURAL,NA,66,83,13,190.3,3.9,55,16.7,55,37,1.8,29,NA,NA,NA
+mh_kpi_2019_20_q2_camhs_docx,CAMHS,NA,2019 20 Q2,TOTAL STATEWIDE,NA,63,86,14,195,4.8,72,17.1,47,43,1.3,28,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Alfred Health,Inner South East (The Alfred),58,92,9,263,5.3,57,19.5,44,5,0.8,37,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Austin Health,North East (Austin),57,91,24,129.3,5.9,60,16.6,43,45,1.3,19,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Eastern Health,Eastern CYMHS,59,90,14,319,7.5,82,19,49,45,1.2,22,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Melbourne Health,Orygen Youth Health,NA,NA,17,59.7,0,NA,NA,NA,NA,NA,0,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Monash Health,South Eastern (Monash CAMHS),36,96,10,158.9,5.8,87,15.4,47,34,1.1,27,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Royal Children's,North Western (RCH),60,81,17,177.6,2.9,74,15.7,41,69,1.3,32,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,TOTAL METRO,NA,54,88,15,208.4,5.5,77,16.8,46,42,1.2,27,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Ballarat Health,Grampians,83,100,20,187.5,6.6,67,14.6,63,35,2,31,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Barwon Health,Barwon,50,57,3,401,4.5,45,16.1,78,5,NA,23,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Bendigo Health,Loddon/Southern Mallee,55,64,13,191.1,3.6,56,17.6,69,43,2.4,20,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Goulburn Valley Health,Goulburn & Southern,60,82,11,198.1,5,63,18,49,27,1.7,39,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Latrobe Regional,Gippsland,37,82,9,395.5,4.1,86,16.1,52,13,0.8,29,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Mildura Base Hospital,Northern Mallee,50,100,5,260.2,6.4,54,17,70,7,NA,19,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Albury Wodonga Health,Albury - NSW,NA,NA,18,192.6,0.8,27,15.6,100,33,NA,12,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,Albury Wodonga Health,North East & Border,73,71,15,115.4,2.7,45,17.3,53,64,2.5,29,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,South West Health,South West Health Care,100,100,19,263.7,3.9,60,15,76,48,3.8,22,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,TOTAL RURAL,NA,60,80,13,207.8,4.1,59,16.3,63,34,2.1,27,NA,NA,NA
+mh_kpi_2019_20_q3_camhs_docx,CAMHS,NA,2019 20 Q3,TOTAL STATEWIDE,NA,55,87,14,208.2,5,71,16.7,50,39,1.4,27,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Alfred Health,Inner South East (The Alfred),30,80,9,324.7,5.7,41,16.3,54,3,1,37,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Austin Health,North East (Austin),61,94,21,193.3,6.3,52,16.9,38,32,1,15,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Eastern Health,Eastern CYMHS,53,96,9,317.1,8.3,86,19.1,52,28,1.4,21,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Melbourne Health,Orygen Youth Health,NA,NA,62,0,0,NA,NA,NA,NA,NA,0,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Monash Health,South Eastern (Monash CAMHS),44,95,9,183.9,6.6,92,16.4,41,2,1,27,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Royal Children's,North Western (RCH),73,84,18,155.1,3.6,71,15.8,45,2,1.3,30,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,TOTAL METRO,NA,58,90,14,222.5,6.1,76,17.1,45,13,1.2,26,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Ballarat Health,Grampians,73,100,15,227.2,7.4,69,16.1,63,9,2.8,36,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Barwon Health,Barwon,55,75,5,301.6,5.3,30,15.9,100,2,NA,17,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Bendigo Health,Loddon/Southern Mallee,70,82,7,209,5.7,61,18,48,21,0.6,19,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Goulburn Valley Health,Goulburn & Southern,43,88,6,294.1,5.4,88,15.6,57,24,1.4,35,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Latrobe Regional,Gippsland,43,94,10,314.8,4.2,92,15.8,55,13,1.5,28,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Mildura Base Hospital,Northern Mallee,45,100,7,154.9,7.2,60,18.5,54,1,2.1,21,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Albury Wodonga Health,Albury - NSW,NA,NA,4,266.7,0.5,25,17.5,14,3,NA,10,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,Albury Wodonga Health,North East & Border,50,57,11,136.5,1.9,42,16.1,55,14,1.5,23,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,South West Health,South West Health Care,100,100,12,357.5,5.1,77,15.3,63,67,2.2,22,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,TOTAL RURAL,NA,58,88,10,237.7,4.7,65,16.3,56,17,1.6,25,NA,NA,NA
+mh_kpi_2019_20_q4_camhs_docx,CAMHS,NA,2019 20 Q4,TOTAL STATEWIDE,NA,58,90,13,228.3,5.6,72,16.8,48,15,1.3,26,NA,NA,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Alfred Health,Inner South East (The Alfred),NA,NA,21,289.4,10.5,59,15.4,49,0,NA,NA,26,27,1
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Austin Health,North East (Austin),NA,NA,31,145,5.7,70,14.5,47,1,NA,NA,47,9,1.1
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Eastern Health,Central East (Box Hill),NA,NA,31,159.4,10.1,79,13.2,55,1,NA,NA,25,27,1.7
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Eastern Health,Eastern CYMHS,NA,NA,14,119,2.7,93,10.9,41,12,NA,NA,36,0,0.6
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Eastern Health,Outer East (Maroondah),NA,NA,19,154.6,8.2,76,15.3,49,1,NA,NA,32,23,1.3
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Eastern Health,TOTAL,NA,NA,23,153.8,8.7,78,14.5,50,2,NA,NA,30,23,3.7
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Melbourne Health,Inner West (RMH),NA,NA,16,329.2,6.5,56,15.7,58,1,NA,NA,17,16,1.5
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Melbourne Health,Mid West (Sunshine),NA,NA,24,215.7,6.9,79,12.7,52,0,NA,NA,30,14,1.4
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Melbourne Health,North West (Broadmeadows),NA,NA,24,858,4.8,68,11,49,9,NA,NA,13,19,1.1
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Melbourne Health,Northern,NA,NA,21,385.7,8.8,64,12.4,54,4,NA,NA,19,20,1.5
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Melbourne Health,TOTAL (excl Orygen),NA,NA,21,529.9,6.6,67,12.9,53,3,NA,NA,20,17,5.4
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Melbourne Health,Orygen Youth Health,NA,NA,20,223.8,5.3,37,14.9,66,1,NA,NA,29,6,2
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Monash Health,Casey,NA,NA,18,165.1,6.5,96,12.9,60,6,NA,NA,30,21,2
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Monash Health,Dandenong,NA,NA,22,212.1,8.6,93,13.1,54,7,NA,NA,32,25,1.5
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Monash Health,Middle South (Monash Adult),NA,NA,22,183.2,8.7,97,12.6,49,7,NA,NA,34,19,1
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Monash Health,TOTAL,NA,NA,20,187.6,7.8,95,12.9,54,7,NA,NA,32,22,4.5
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Peninsula Health,Peninsula,NA,NA,26,161.4,7.8,83,15,47,1,NA,NA,44,12,1.3
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,St Vincent'sHospital,Inner East (St Vincent's),NA,NA,24,339,11.1,65,12.6,27,10,NA,NA,23,13,0.7
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,Mercy Health,South West (Werribee),NA,NA,28,81.7,5.7,73,11.8,55,22,NA,NA,60,14,1.6
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,TOTAL METRO,(Excl Orygen),NA,NA,24,274.4,7.8,77,13.6,50,5,NA,NA,30,18,1.3
+mh_kpi_2019_20_q1_adult_docx,Adult,Metro,2019 20 Q1,TOTAL STATEWIDE*,(Excl Orygen),NA,NA,23,266.6,7.4,70,13.7,53,7,NA,NA,29,15,1.5
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Alfred Health,Inner South East (The Alfred),NA,NA,23,131.2,10.6,47,16.4,53,0,NA,NA,28,28,1.2
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Austin Health,North East (Austin),NA,NA,28,121.9,6.3,60,15.6,58,1,NA,NA,49,9,1.6
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Eastern Health,Central East (Box Hill),NA,NA,25,178.2,9.9,78,12.8,48,1,NA,NA,25,26,1.2
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Eastern Health,Eastern CYMHS,NA,NA,20,128.9,2.8,91,12.8,40,10,NA,NA,33,0,0.7
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Eastern Health,Outer East (Maroondah),NA,NA,20,196.3,8.4,73,14.4,45,1,NA,NA,31,22,1.2
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Eastern Health,TOTAL,NA,NA,22,186.7,8.8,76,13.8,46,1,NA,NA,29,22,1.2
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Melbourne Health,Inner West (RMH),NA,NA,20,302.1,5.6,54,14.6,61,0,NA,NA,18,15,1.6
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Melbourne Health,Mid West (Sunshine),NA,NA,21,196.8,6.5,75,13,54,1,NA,NA,30,15,1.3
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Melbourne Health,North West (Broadmeadows),NA,NA,28,336.8,9.6,68,11.4,47,5,NA,NA,24,18,1.4
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Melbourne Health,Northern,NA,NA,23,203.5,8.8,59,12.2,58,4,NA,NA,22,18,1.4
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Melbourne Health,TOTAL (excl ORYGEN),NA,NA,23,253.8,7.6,65,12.6,54,3,NA,NA,23,17,1.4
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Melbourne Health,Orygen Youth Health,NA,NA,19,205,6.5,34,15.4,67,0,NA,NA,30,6,2.1
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Monash Health,Casey,NA,NA,19,122.6,5.5,88,12,57,4,NA,NA,47,15,1.9
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Monash Health,Dandenong,NA,NA,26,190.8,7.5,92,13.2,49,8,NA,NA,34,25,1.5
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Monash Health,Middle South (Monash Adult),NA,NA,18,165.1,8.3,96,11.9,44,6,NA,NA,34,17,1
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Monash Health,TOTAL,NA,NA,21,150.4,7,91,12.3,51,6,NA,NA,39,19,1.5
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Peninsula Health,Peninsula,NA,NA,25,83,8.4,85,15.2,47,2,NA,NA,45,12,1.2
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,St Vincent'sHospital,Inner East (St Vincent's),NA,NA,24,222.1,12,66,12.3,27,9,NA,NA,24,13,0.6
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,Mercy Health,South West (Werribee),NA,NA,24,131.9,5.9,69,11.3,51,21,NA,NA,56,16,1.5
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,TOTAL METRO,(Excl ORYGEN),NA,NA,23,169.6,8.1,73,13.3,50,4,NA,NA,32,17,1.3
+mh_kpi_2019_20_q2_adult_docx,Adult,Metro,2019 20 Q2,TOTAL STATEWIDE,(Excl ORYGEN),NA,NA,22,187.2,7.4,68,13.7,53,6,NA,NA,30,14,1.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Alfred Health,Inner South East (The Alfred),NA,NA,23,191.1,10.7,60,16.7,67,1,NA,NA,26,28,2.1
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Austin Health,North East (Austin),NA,NA,26,106.7,6.2,66,16.1,60,1,NA,NA,44,11,1.9
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Eastern Health,Central East (Box Hill),NA,NA,22,197,10.5,76,13.7,56,2,NA,NA,21,27,1.6
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Eastern Health,Eastern CYMHS,NA,NA,8,171.2,3.4,88,11.5,53,9,NA,NA,28,0,1.2
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Eastern Health,Outer East (Maroondah),NA,NA,22,179.6,8.6,76,15.4,53,1,NA,NA,31,24,1.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Eastern Health,TOTAL,NA,NA,21,184.5,9.2,76,14.8,54,2,NA,NA,27,24,1.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Melbourne Health,Inner West (RMH),NA,NA,20,293.5,7.5,50,15.6,55,0,NA,NA,16,21,1.1
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Melbourne Health,Mid West (Sunshine),NA,NA,23,234.8,6.9,74,11.9,49,1,NA,NA,27,15,1.1
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Melbourne Health,North West (Broadmeadows),NA,NA,27,302.1,9.5,69,11.6,50,3,NA,NA,25,18,1.2
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Melbourne Health,Northern,NA,NA,22,209.9,8.2,61,11.2,49,4,NA,NA,22,17,1.1
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Melbourne Health,TOTAL (excl ORYGEN),NA,NA,23,256.1,8.2,65,12.1,50,2,NA,NA,23,18,1.1
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Melbourne Health,Orygen Youth Health,NA,NA,18,223.9,6.6,39,15,68,1,NA,NA,29,8,1.9
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Monash Health,Casey,NA,NA,16,113.8,6,90,11.4,58,4,NA,NA,44,17,1.7
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Monash Health,Dandenong,NA,NA,24,150.2,7.4,91,13.5,52,10,NA,NA,32,26,1.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Monash Health,Middle South (Monash Adult),NA,NA,22,169.2,8.2,97,13,41,7,NA,NA,32,18,0.9
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Monash Health,TOTAL,NA,NA,19,138.2,7.1,92,12.4,52,7,NA,NA,36,20,1.4
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Peninsula Health,Peninsula,NA,NA,23,139.6,8.6,82,15.2,49,2,NA,NA,43,12,1.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,St Vincent's Hospital,Inner East (St Vincent's),NA,NA,22,374.5,12.2,87,13.1,27,10,NA,NA,21,13,0.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,Mercy Health,South West (Werribee),NA,NA,17,107.5,7.5,74,11.6,52,14,NA,NA,58,18,1.4
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,TOTAL METRO,(Excl ORYGEN),NA,NA,22,184.7,8.5,76,13.4,51,4,NA,NA,31,19,1.4
+mh_kpi_2019_20_q3_adult_docx,Adult,Metro,2019 20 Q3,TOTAL STATEWIDE,(Excl ORYGEN),NA,NA,21,198.3,7.7,72,13.7,54,7,NA,NA,29,15,1.6
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Alfred Health,Inner South East (The Alfred),NA,NA,23,260.3,11.3,53,16.5,54,1,NA,NA,26,30,1.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Austin Health,North East (Austin),NA,NA,29,100.8,7.8,67,15,52,0,NA,NA,51,10,1.5
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Eastern Health,Central East (Box Hill),NA,NA,23,285,11.7,82,11.5,51,1,NA,NA,22,26,1.5
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Eastern Health,Eastern CYMHS,NA,NA,3,176,3.1,95,11.8,35,6,NA,NA,35,0,0.5
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Eastern Health,Outer East (Maroondah),NA,NA,22,189.1,9.5,81,15.6,43,0,NA,NA,31,28,1.1
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Eastern Health,TOTAL,NA,NA,21,219.1,10.1,82,14.2,45,1,NA,NA,28,26,1.2
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Melbourne Health,Inner West (RMH),NA,NA,22,249.1,9.4,52,14.1,59,0,NA,NA,19,23,1.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Melbourne Health,Mid West (Sunshine),NA,NA,17,247.2,7,82,11.6,47,0,NA,NA,31,17,1
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Melbourne Health,North West (Broadmeadows),NA,NA,22,176,11.4,67,11.3,43,0,NA,NA,25,20,1.2
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Melbourne Health,Northern,NA,NA,21,225.9,9.6,68,11.9,52,5,NA,NA,24,18,1.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Melbourne Health,TOTAL (excl ORYGEN),NA,NA,20,221.6,9.5,69,11.9,48,2,NA,NA,25,19,1.2
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Melbourne Health,Orygen Youth Health,NA,NA,14,216.9,8,41,14.4,60,0,NA,NA,30,8,1.9
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Monash Health,Casey,NA,NA,17,114.6,6.3,95,12.5,59,2,NA,NA,46,17,1.7
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Monash Health,Dandenong,NA,NA,23,142.7,8.5,94,13.5,57,3,NA,NA,34,24,1.8
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Monash Health,Middle South (Monash Adult),NA,NA,18,210.1,9.6,95,13.2,48,1,NA,NA,29,20,1.3
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Monash Health,TOTAL,NA,NA,19,145.1,8.1,94,13,56,2,NA,NA,37,20,1.7
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Peninsula Health,Peninsula,NA,NA,22,122.7,8.8,92,14.9,52,1,NA,NA,44,13,1.5
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,St Vincent's Hospital,Inner East (St Vincent's),NA,NA,19,835.6,12.5,92,15.9,37,10,NA,NA,19,15,0.5
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,Mercy Health,South West (Werribee),NA,NA,14,144.8,9.6,80,10.9,43,20,NA,NA,54,19,0.8
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,TOTAL METRO,(Excl ORYGEN),NA,NA,21,203.1,9.6,80,13.4,50,3,NA,NA,32,20,1.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Metro,2019 20 Q4,TOTAL STATEWIDE,(Excl ORYGEN),NA,NA,20,213.5,8.6,76,13.6,53,5,NA,NA,30,15,1.6
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Ballarat Health,Grampians,NA,NA,19,297.5,5.8,27,12.4,68,5,2.1,NA,26,8,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Barwon Health*,Barwon,NA,NA,17,422,7.4,56,12.8,52,29,1.2,NA,20,10,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Bendigo Health,Loddon/Southern Mallee,NA,NA,23,123.8,6.9,55,15.1,70,4,2.6,NA,33,8,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Goulburn Valley Health,Goulburn & Southern,NA,NA,16,111.4,7.1,30,13.7,74,10,2.8,NA,38,10,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Latrobe Regional*,Gippsland,NA,NA,19,267.3,8.5,84,14.4,50,1,1.4,NA,27,8,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Mildura Base Hospital,Northern Mallee,NA,NA,7,222.5,9.2,75,13.5,73,6,2.4,NA,28,9,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,Albury Wodonga Health,North East & Border,NA,NA,20,218.7,4.6,60,14.2,63,19,2.1,NA,26,6,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,South West Health*,South West Health Care,NA,NA,11,359.2,5.6,60,11,67,22,2,NA,24,5,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,TOTAL RURAL*,NA,NA,NA,18,248.7,6.8,57,13.7,62,12,2,NA,27,8,NA
+mh_kpi_2019_20_q1_adult_docx,Adult,Rural,2019 20 Q1,TOTAL STATEWIDE*,(Excl Orygen),NA,NA,23,266.6,7.4,70,13.7,53,7,1.5,NA,29,15,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Ballarat Health,Grampians,NA,NA,15,233.6,5.6,50,13.1,63,6,1.5,NA,24,7,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Barwon Health,Barwon,NA,NA,15,405.5,7,43,12.6,59,20,2,NA,17,10,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Bendigo Health,Loddon/Southern Mallee,NA,NA,19,182.5,6.2,65,16.7,74,4,3,NA,30,8,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Goulburn Valley Health,Goulburn & Southern,NA,NA,23,141.5,7.4,40,14.6,75,13,2.4,NA,39,10,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Latrobe Regional,Gippsland,NA,NA,18,175.9,8.5,89,15,48,1,1.2,NA,27,9,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Mildura Base Hospital,Northern Mallee,NA,NA,6,404.6,9.3,69,13.4,78,3,2.5,NA,32,12,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Albury Wodonga Health,Albury - NSW,NA,NA,8,200.8,3,31,13.5,47,10,1.7,NA,21,0,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Albury Wodonga Health,North East & Border,NA,NA,19,208.8,3.7,48,15.5,65,16,2.1,NA,28,5,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,Albury Wodonga Health,TOTAL,NA,NA,16,206.1,3.4,43,15.2,62,14,2.1,NA,25,3,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,South West Health,South West Health Care,NA,NA,16,227.3,5.4,50,11.4,60,21,1.9,NA,21,7,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,TOTAL RURAL,NA,NA,NA,17,230.5,6.2,58,14.6,64,10,2.1,NA,26,8,NA
+mh_kpi_2019_20_q2_adult_docx,Adult,Rural,2019 20 Q2,TOTAL STATEWIDE,(Excl ORYGEN),NA,NA,22,187.2,7.4,68,13.7,53,6,1.5,NA,30,14,NA
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Ballarat Health,Grampians,NA,NA,18,301.6,5.7,61,12,65,7,NA,NA,25,6,1.9
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Barwon Health,Barwon,NA,NA,18,331.4,6.7,49,14.4,64,22,NA,NA,19,9,1.6
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Bendigo Health,Loddon/Southern Mallee,NA,NA,21,150,6.4,68,17.5,77,5,NA,NA,28,8,3.5
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Goulburn Valley Health,Goulburn & Southern,NA,NA,25,160.6,7,74,14.5,54,20,NA,NA,38,9,1.7
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Latrobe Regional,Gippsland,NA,NA,18,213.1,8.4,86,14.7,53,1,NA,NA,28,10,1.6
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Mildura Base Hospital,Northern Mallee,NA,NA,15,172.9,10.1,78,13.3,61,3,NA,NA,29,12,1.6
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Albury Wodonga Health,Albury - NSW,NA,NA,20,235.3,2.8,28,15.2,54,7,NA,NA,22,0,1.8
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Albury Wodonga Health,North East & Border,NA,NA,20,290,4.2,51,13.7,51,17,NA,NA,23,6,1.2
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,Albury Wodonga Health,TOTAL,NA,NA,20,271.3,3.6,44,14,52,14,NA,NA,23,4,1.4
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,South West Health,South West Health Care,NA,NA,14,245,6.1,67,11.1,53,20,NA,NA,21,6,1.8
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,TOTAL RURAL,NA,NA,NA,19,228.8,6.2,64,14.6,63,11,NA,NA,25,8,2.2
+mh_kpi_2019_20_q3_adult_docx,Adult,Rural,2019 20 Q3,TOTAL STATEWIDE,(Excl ORYGEN),NA,NA,21,198.3,7.7,72,13.7,54,7,NA,NA,29,15,1.6
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Ballarat Health,Grampians,NA,NA,13,315.4,6.8,75,12.7,66,2,NA,NA,19,6,1.8
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Barwon Health,Barwon,NA,NA,18,449.7,6.4,44,14,60,22,NA,NA,18,8,1.9
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Bendigo Health,Loddon/Southern Mallee,NA,NA,19,172.3,7.9,73,16,68,3,NA,NA,29,9,2.6
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Goulburn Valley Health,Goulburn & Southern,NA,NA,18,141.8,7.7,80,15,64,21,NA,NA,38,11,2.6
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Latrobe Regional,Gippsland,NA,NA,17,160.5,9.3,88,15.2,53,1,NA,NA,33,10,1.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Mildura Base Hospital,Northern Mallee,NA,NA,14,289.4,11.1,78,14.1,78,3,NA,NA,25,12,2.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Albury Wodonga Health,Albury - NSW,NA,NA,17,170.8,3.5,48,13.7,52,13,NA,NA,23,0,1.4
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Albury Wodonga Health,North East & Border,NA,NA,21,170.1,4.8,50,14.6,55,6,NA,NA,26,7,1.9
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,Albury Wodonga Health,TOTAL,NA,NA,20,170.4,4.2,49,14.3,55,9,NA,NA,25,4,1.8
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,South West Health,South West Health Care,NA,NA,12,332.4,6.9,72,10.5,51,18,NA,NA,26,6,1.7
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,TOTAL RURAL,NA,NA,NA,17,237.3,7,68,14.3,61,9,NA,NA,26,8,2
+mh_kpi_2019_20_q4_adult_docx,Adult,Rural,2019 20 Q4,TOTAL STATEWIDE,(Excl ORYGEN),NA,NA,20,213.5,8.6,76,13.6,53,5,NA,NA,30,15,1.6
